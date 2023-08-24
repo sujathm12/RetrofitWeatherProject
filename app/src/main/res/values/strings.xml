@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RetrofitWeatherProject</string>
+    <string name="name_placeholder">John Doe</string>
+    <string name="email_placeholder">john.doe@example.com</string>
+    <string name="submit_button_text">Submit</string>
+</resources>
